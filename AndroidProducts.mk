@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_haydn.mk
+    $(LOCAL_DIR)/twrp_haydn.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_haydn-user \
-    omni_haydn-userdebug \
-    omni_haydn-eng
+    twrp_haydn-user \
+    twrp_haydn-userdebug \
+    twrp_haydn-eng
