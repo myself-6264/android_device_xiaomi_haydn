@@ -16,7 +16,7 @@ $(call inherit-product, vendor/omni/config/common.mk)
 $(call inherit-product, device/xiaomi/haydn/device.mk)
 
 PRODUCT_DEVICE := haydn
-PRODUCT_NAME := omni_haydn
+PRODUCT_NAME := twrp_haydn
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := M2012K11C
 PRODUCT_MANUFACTURER := xiaomi
